@@ -26,18 +26,25 @@
     font-size: 20px;
     color: blue;
     background-color: yellow;
-    border-color: red;
+    border: 2px solid red;
 }
 
 #rayadoss {
     font-size: 20px;
     color: white;
     background-color: blue;
-    border-color: red;
+    border: 2px solid red;
 }
 
-.parrafo-estilo {
+.italicas {
     font-style: italic;
-    color: #333; /* Cambia el color según tu preferencia */
-    margin-bottom: 10px; /* Ajusta el margen inferior según tu preferencia */
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#tigress {
+    font-size: 20px;
+    color: blue;
+    background-color: yellow;
+    border: 2px solid greenyellow;
 }
