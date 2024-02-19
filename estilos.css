@@ -28,3 +28,16 @@
     background-color: yellow;
     border-color: red;
 }
+
+#rayadoss {
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    border-color: red;
+}
+
+.parrafo-estilo {
+    font-style: italic;
+    color: #333; /* Cambia el color según tu preferencia */
+    margin-bottom: 10px; /* Ajusta el margen inferior según tu preferencia */
+}
